@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello People! I'm Vennela,<br><br>🔭 Working as a business analyst in Bangalore<br>🌱 Passionate about working with Data 
+Hello People! I'm Vennela,<br><br>🔭 Working as a business analyst in Bangalore<br>🌱 Passionate about solving business problems using Data 
 
 
 ## 🌐 Socials:
